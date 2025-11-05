@@ -1,0 +1,44 @@
+h3
+{
+    font-size: 40px;
+    color: red
+
+}
+body
+{
+background-color: purple
+
+}
+.test{
+font-size: large;
+color: blue;
+background-color: aqua;
+}
+.obramowanie{
+border-color: pink;
+border-style: dotted;
+border-radius: 5;
+}
+.obramowanie2{
+border: 2px;
+border-color: bisque;
+border-style: dotted;
+border-radius: 5px;
+background-color: chartreuse;
+
+
+}
+
+#a{
+width: 40%;
+font-size: large;
+color: red;
+background-color: yellow;
+}
+
+#b
+{
+float: left;
+
+
+}
